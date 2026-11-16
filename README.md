@@ -2,6 +2,8 @@
 
 Situs belajar interaktif tentang **komponen apa saja yang membentuk sebuah website**. Materi disusun bertahap dari HTML sampai deploy, dengan halaman terpisah untuk setiap sub-materi.
 
+**Situs live:** <https://website-learn-omega.vercel.app>
+
 Dibuat dengan Next.js 16 (App Router), React 19, TypeScript, dan Tailwind CSS v4.
 
 Mau ikut mengedit? Baca [CONTRIBUTING.md](./CONTRIBUTING.md) untuk alur clone, edit materi, dan Pull Request.

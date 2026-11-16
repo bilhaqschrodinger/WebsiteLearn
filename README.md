@@ -1,5 +1,7 @@
 # WebsiteLearn — Peta Belajar Website
 
+[![Situs Live](https://img.shields.io/badge/Situs_Live-website--learn--omega.vercel.app-2563EB?style=flat-square)](https://website-learn-omega.vercel.app)
+
 Situs belajar interaktif tentang **komponen apa saja yang membentuk sebuah website**. Materi disusun bertahap dari HTML sampai deploy, dengan halaman terpisah untuk setiap sub-materi.
 
 **Situs live:** <https://website-learn-omega.vercel.app>
